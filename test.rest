@@ -5,7 +5,7 @@ GET {{url}}
 content-type: application/json
 
 ### delete user 
-DELETE  {{url}}/deleteuser/618ff8342f581f201adc2be3
+DELETE  {{url}}/deleteuser/618ff8342f581f201adc2c08
 content-type: application/json
 
 ### insert user 
@@ -21,11 +21,11 @@ content-type: application/json
 }
 
 ### edit user 
-PATCH  {{url}}/edituseremail/618ff8342f581f201adc2be9
+PATCH  {{url}}/edituseremail/618ff8342f581f201adc2c09
 content-type: application/json
 
 {
-	"email": "2222@gmail.com"
+	"email": "mmmmmarcel333@gmail.com"
 }
 
 
